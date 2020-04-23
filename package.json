@@ -3,7 +3,7 @@
   "description": "nothing yet",
   "version": "1.0.7",
   "dependencies": {
-    "escape-string-regexp": "^2.0.0"
+    "escape-string-regexp": "^4.0.0"
   },
   "engines": {
     "node": ">= 8.0.0"
